@@ -1,0 +1,4 @@
+1. Wydruk różnych kształtów: kwadratu, trójkąta.
+2. Operacje na zmiennych: dodawanie, odejmowanie, mnożenie, dzielenie, dzielenie modulo.
+3. Implementacja aglorytmu Euklidesa wykładu NWD
+4. Ciąg Fibonaciego.
