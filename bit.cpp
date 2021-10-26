@@ -20,7 +20,7 @@ int main()
     cout << "Wynik dzielenia: " << liczba << "/2 : " << (liczba >> 1) << endl;
     cout << "\nPodaj liczbe, pomnoze ja przez dwa: ";
     cin >> liczba;
-    //szybkie dzielenie przez dwa >> przesówamy liczbe o jeden bit w prawo
+    //szybkie dzielenie przez dwa >> przesówamy liczbe o jeden bit w lewo
     cout << "Wynik dzielenia: " << liczba << " * 2 : " << (liczba << 1) << endl;
     // liczba przesunięć bitowy
     // 1 - dzielenie/mnożenie przez 2, 2^1
