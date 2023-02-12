@@ -1,8 +1,8 @@
-// Szereg Fibonaciego na zmiennych
+// Szereg Fibonacciego 
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Podaj ile wyrazow ciagu Fibbonaciego wyznaczyc: ";
+    cout<<"Podaj ile wyrazów ciągu Fibonacciego wyznaczyć: ";
     int n;
     cin>>n;
     int prv = 0;
